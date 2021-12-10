@@ -1,0 +1,130 @@
+body {
+  text-align: center;
+  margin: 0;
+  background-color: #e4f9f5;
+  font-family: "Merriweather", serif;
+  color: #40514e;
+}
+.top {
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: "Sacramento", cursive;
+  font-size: 5.625rem;
+  color: #66bfbf;
+}
+a {
+  color: #11999e;
+  font-family: "Montserrat", sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover {
+  color: #eaf6f6;
+}
+h2 {
+  font-family: "Montserrat-bold", sans-serif;
+  font-size: 3rem;
+  color: #66bfbf;
+  font-weight: normal;
+  padding: 10px;
+
+}
+.bottom-container {
+  background-color: #66bfbf;
+  padding: 50px 0 20px;
+}
+h3 {
+  font-family: "Montserrat", sans-serif;
+  color: #11999e;
+}
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+p {
+  line-height: 2;
+}
+span {
+  text-decoration:underline ;
+
+}
+.mm {
+  width: 15%;
+}
+.comp {
+  width: 27%;
+  float: left;
+  margin-right: 30px;
+}
+
+.design {
+  width: 27%;
+  float: right;
+  margin-left: 30px;
+}
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+hr {
+  border: dotted #c3c8cc 7px;
+  border-bottom: none;
+  width: 3%;
+  margin: 100px auto;
+}
+.contact-message {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+.copy {
+  color: #eaf6f6;
+  font-size: 0.75rem;
+}
+.BUTTON {
+   -webkit-border-radius: 10px;
+   -moz-border-radius: 10px;
+   border-radius: 10px;
+   color: #66BFBF;
+   font-family: Arial;
+   font-size: 33px;
+   font-weight: 100;
+   padding: 20px;
+   background-color: #E4F9F5;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   border: solid #66BFBF 3px;
+}
+
+.BUTTON:hover {
+   background: #66bfbf;
+
+   color: #e4f9f5;
+   -webkit-border-radius: 10px;
+   -moz-border-radius: 10px;
+   border-radius: 10px;
+   text-decoration: none;
+}
